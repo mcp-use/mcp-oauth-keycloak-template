@@ -1,5 +1,5 @@
 {
-  "name": "mcp-oauth-keycloak",
+  "name": "mcp-oauth-keycloak-template",
   "type": "module",
   "version": "1.0.0",
   "description": "MCP server template with Keycloak OAuth + Dynamic Client Registration",

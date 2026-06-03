@@ -11,7 +11,7 @@
     "start": "mcp-use start"
   },
   "dependencies": {
-    "mcp-use": "^1.28.0"
+    "mcp-use": "latest"
   },
   "devDependencies": {
     "@types/node": "^25.0.2",
